@@ -1,0 +1,13 @@
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Entity.dll.config
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Entity.dll
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Entity.pdb
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.dll
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Interfaces.dll
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Interfaces.pdb
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.xml
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.csprojResolveAssemblyReference.cache
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.csproj.CoreCompileInputs.cache
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.dll
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.pdb

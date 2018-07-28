@@ -1,0 +1,6 @@
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\bin\Debug\TreinaWeb.MinhaApi.Dominio.dll
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\bin\Debug\TreinaWeb.MinhaApi.Dominio.pdb
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\obj\Debug\TreinaWeb.MinhaApi.Dominio.csprojResolveAssemblyReference.cache
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\obj\Debug\TreinaWeb.MinhaApi.Dominio.csproj.CoreCompileInputs.cache
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\obj\Debug\TreinaWeb.MinhaApi.Dominio.dll
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\obj\Debug\TreinaWeb.MinhaApi.Dominio.pdb

@@ -1,0 +1,13 @@
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.dll.config
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.dll
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.pdb
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\EntityFramework.dll
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.Dominio.dll
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.Dominio.pdb
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\EntityFramework.xml
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.csprojResolveAssemblyReference.cache
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.csproj.CoreCompileInputs.cache
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.dll
+C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.pdb
