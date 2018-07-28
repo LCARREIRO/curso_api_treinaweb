@@ -48,6 +48,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Context\MinhaApiDbContext.cs" />
+    <Compile Include="Migrations\201807281900222_CriacaoTabelaAlunos.cs" />
+    <Compile Include="Migrations\201807281900222_CriacaoTabelaAlunos.Designer.cs">
+      <DependentUpon>201807281900222_CriacaoTabelaAlunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -61,6 +66,11 @@
       <Project>{c76daa2b-f435-4162-bceb-6cda1e5c7cff}</Project>
       <Name>TreinaWeb.MinhaApi.Dominio</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201807281900222_CriacaoTabelaAlunos.resx">
+      <DependentUpon>201807281900222_CriacaoTabelaAlunos.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

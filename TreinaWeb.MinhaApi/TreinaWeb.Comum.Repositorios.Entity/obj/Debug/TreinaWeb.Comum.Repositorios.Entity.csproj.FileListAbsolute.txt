@@ -11,3 +11,17 @@ C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios
 C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.csproj.CoreCompileInputs.cache
 C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.dll
 C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.pdb
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Entity.dll.config
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Entity.dll
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Entity.pdb
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Interfaces.dll
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Interfaces.pdb
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.csprojAssemblyReference.cache
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.csproj.CopyComplete
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.dll
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.pdb

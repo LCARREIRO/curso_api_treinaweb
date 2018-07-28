@@ -4,3 +4,9 @@ C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios
 C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Interfaces\obj\Debug\TreinaWeb.Comum.Repositorios.Interfaces.csproj.CoreCompileInputs.cache
 C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Interfaces\obj\Debug\TreinaWeb.Comum.Repositorios.Interfaces.dll
 C:\Luciano\TreinaWeb\CursoWebAPI\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Interfaces\obj\Debug\TreinaWeb.Comum.Repositorios.Interfaces.pdb
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Interfaces\bin\Debug\TreinaWeb.Comum.Repositorios.Interfaces.dll
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Interfaces\bin\Debug\TreinaWeb.Comum.Repositorios.Interfaces.pdb
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Interfaces\obj\Debug\TreinaWeb.Comum.Repositorios.Interfaces.csprojAssemblyReference.cache
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Interfaces\obj\Debug\TreinaWeb.Comum.Repositorios.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Interfaces\obj\Debug\TreinaWeb.Comum.Repositorios.Interfaces.dll
+C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Interfaces\obj\Debug\TreinaWeb.Comum.Repositorios.Interfaces.pdb
