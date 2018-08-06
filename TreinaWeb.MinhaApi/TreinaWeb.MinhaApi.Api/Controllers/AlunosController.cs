@@ -6,6 +6,8 @@ using System.Net.Http;
 using System.Web.Http;
 using TreinaWeb.Comum.Repositorios.Interfaces;
 using TreinaWeb.MinhaApi.AcessoDados.Entity.Context;
+using TreinaWeb.MinhaApi.Api.AutoMapper;
+using TreinaWeb.MinhaApi.Api.DTOs;
 using TreinaWeb.MinhaApi.Dominio;
 using TreinaWeb.MinhaApi.Repositorios.Entity;
 
@@ -22,7 +24,10 @@ namespace TreinaWeb.MinhaApi.Api.Controllers
 
         public IHttpActionResult Get()
         {
-            return Ok(_repositorioAlunos.Selecionar());
+            List<Aluno> alunos = _repositorioAlunos.Selecionar();
+            List<AlunoDTO> dtos = AutoMapperManager.Instance.Mapper.Map<List<Aluno>, List<AlunoDTO>>(alunos);
+
+            return Ok(dtos);
         }
 
         public IHttpActionResult Get(int? id)
@@ -32,26 +37,39 @@ namespace TreinaWeb.MinhaApi.Api.Controllers
                 return BadRequest();
             }
             Aluno aluno = _repositorioAlunos.SelecionarPorId(id.Value);
-
+            
             if (aluno == null)
             {
                 return NotFound();
             }
-            return Content(HttpStatusCode.Found, aluno);
+
+            AlunoDTO dto = AutoMapperManager.Instance.Mapper.Map<Aluno, AlunoDTO>(aluno);
+
+            return Content(HttpStatusCode.Found, dto);
         }
 
-        public IHttpActionResult Post([FromBody] Aluno aluno)
+        public IHttpActionResult Post([FromBody] AlunoDTO dto)
         {
-            try
+            if(!ModelState.IsValid)
             {
-                _repositorioAlunos.Inserir(aluno);
-                return Created($"{Request.RequestUri}/{aluno.Id}", aluno);
-            }
-            catch (Exception ex)
-            {
+                try
+                {
+                    Aluno aluno = AutoMapperManager.Instance.Mapper.Map<AlunoDTO, Aluno>(dto);
 
-                return InternalServerError(ex);
+                    _repositorioAlunos.Inserir(aluno);
+                    return Created($"{Request.RequestUri}/{aluno.Id}", aluno);
+                }
+                catch (Exception ex)
+                {
+
+                    return InternalServerError(ex);
+                }
             }
+            else
+            {
+                return BadRequest(ModelState);
+            }
+            
         }
 
         public IHttpActionResult Put(int? id, [FromBody] Aluno aluno)
