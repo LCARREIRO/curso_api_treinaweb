@@ -10,3 +10,9 @@ C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.Min
 C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\obj\Debug\TreinaWeb.MinhaApi.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\obj\Debug\TreinaWeb.MinhaApi.Dominio.dll
 C:\Users\Luciano\Documents\GitHub\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\obj\Debug\TreinaWeb.MinhaApi.Dominio.pdb
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\bin\Debug\TreinaWeb.MinhaApi.Dominio.dll
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\bin\Debug\TreinaWeb.MinhaApi.Dominio.pdb
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\obj\Debug\TreinaWeb.MinhaApi.Dominio.csprojResolveAssemblyReference.cache
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\obj\Debug\TreinaWeb.MinhaApi.Dominio.csproj.CoreCompileInputs.cache
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\obj\Debug\TreinaWeb.MinhaApi.Dominio.dll
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\obj\Debug\TreinaWeb.MinhaApi.Dominio.pdb
