@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
+using TreinaWeb.MinhaApi.Api.Filters;
 using TreinaWeb.MinhaApi.Api.Formatters;
 
 namespace TreinaWeb.MinhaApi.Api
@@ -22,6 +23,7 @@ namespace TreinaWeb.MinhaApi.Api
             //Remove xmlFormatter (ira retornar apenas Json)
             //var xmlFormatter = config.Formatters.XmlFormatter;
             //config.Formatters.Remove(xmlFormatter);
+            config.Filters.Add(new FillResponseWithHATEOASAttribute());
 
             // Rotas da API da Web
             config.MapHttpAttributeRoutes();

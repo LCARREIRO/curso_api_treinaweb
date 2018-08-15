@@ -234,3 +234,17 @@ C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Api\obj\Debug\Tre
 C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Api\obj\Debug\TreinaWeb.MinhaApi.Api.csproj.CoreCompileInputs.cache
 C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Api\obj\Debug\TreinaWeb.MinhaApi.Api.dll
 C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Api\obj\Debug\TreinaWeb.MinhaApi.Api.pdb
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Api\bin\Microsoft.Owin.Cors.dll
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Api\bin\Microsoft.Owin.dll
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Api\bin\Microsoft.Owin.Security.dll
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Api\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Api\bin\Owin.dll
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Api\bin\System.Web.Cors.dll
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Api\bin\System.Web.Http.Owin.dll
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Api\bin\Microsoft.Owin.xml
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Api\bin\Microsoft.Owin.Cors.xml
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Api\bin\Microsoft.Owin.Security.xml
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Api\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Luciano\TreinaWeb_API\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Api\bin\System.Web.Http.Owin.xml
